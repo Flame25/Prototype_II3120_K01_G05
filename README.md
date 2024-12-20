@@ -19,3 +19,8 @@
 
 * The backend can only be accessed inside of ITB Network so make sure use VPN when opening the app. 
 * API code is inside the API folder but you don't need to run it manually since already deployed. 
+
+# Demo
+
+https://github.com/user-attachments/assets/d3739a86-3b0c-437f-988a-39fdff820cda
+
