@@ -269,7 +269,7 @@ class _AnotherTest extends State<TimeTableWidget> {
   Future<Map<String, dynamic>> getData() async {
     try {
       final response = await http.post(
-          Uri.parse('http://172.17.0.2:5000/timetable'),
+          Uri.parse('http://167.205.67.254:5555/timetable'),
           headers: headers,
           body: body);
       if (response.statusCode == 200) {

@@ -1,21 +1,16 @@
-# How to run Project?
+# app2
 
-## Building From Code With Android Emulator
-* Prepare [Flutter SDK](https://docs.flutter.dev/get-started/install) on your devices
-* Install and run android emulator
-* Open Project files 
-* Run `flutter run`  command to build and run in on your emulator
+A new Flutter project.
 
-## Building From Code Without Android Emulator
-* Prepare [Flutter SDK](https://docs.flutter.dev/get-started/install) on your devices
-* Open Project files 
-* Run `flutter run`  command to build and run in on your detected devices
+## Getting Started
 
-## Installing From APK
-* APK located at `build/app/outputs/apk/release`
-* Install on your phone then run it
+This project is a starting point for a Flutter application.
 
-# Notes
+A few resources to get you started if this is your first Flutter project:
 
-* The backend can only be accessed inside of ITB Network so make sure use VPN when opening the app. 
-* API code is inside the API folder but you don't need to run it manually since already deployed. 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
